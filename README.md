@@ -1,6 +1,6 @@
 # Hi 👋 I'm Farhan Ali
 
-🎓 BS Computer Science Student  
+
 🤖 Aspiring AI Engineer | LLM Enthusiast 
 
 ---
@@ -11,8 +11,6 @@ I am a passionate AI and Data Science enthusiast focused on understanding how da
 
 I am currently learning how machine learning models are trained, evaluated, and optimized using real-world datasets. My primary interest lies in Large Language Models (LLMs) and how they can be integrated into intelligent web systems.
 
-Alongside AI, I work on web development and explore how AI-powered features can enhance modern applications by making them smarter, scalable, and user-focused.
-
 ---
 
 ## 🧠 Current Focus
@@ -20,8 +18,7 @@ Alongside AI, I work on web development and explore how AI-powered features can 
 - Data Manipulation & Analysis with Python  
 - Machine Learning Fundamentals  
 - Model Training & Evaluation  
-- Large Language Models (LLMs)  
-- AI Integration with Web Applications  
+- Large Language Models (LLMs)   
 - Building Intelligent Systems  
 
 ---
