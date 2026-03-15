@@ -1,8 +1,7 @@
 # Hi 👋 I'm Farhan Ali
 
 🎓 BS Computer Science Student  
-🤖 Aspiring AI Engineer | LLM Enthusiast  
-💻 Web Developer | AI Integration Explorer  
+🤖 Aspiring AI Engineer | LLM Enthusiast 
 
 ---
 
